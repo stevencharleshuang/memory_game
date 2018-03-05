@@ -37,6 +37,9 @@ p {
 ul {
 	list-style-type: none;
 }
+li {
+	display: block;
+}
 
 header {
 	background-color: #F15B31;
